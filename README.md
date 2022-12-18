@@ -13,3 +13,5 @@ Hello world
 Deep Learning(Tensorflow)
 ### Cloud : ###
 AWS
+### Internationalization ###
+i18next
