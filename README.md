@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/108582413/207043190-12ae81c4-02b1-4c36-9176-6b5309d06bc1.png" alt="drawing" width="25%"/>
 </p>
 <p align="center">
-  <b align="center"> My eyers are red. I've been burning burning burning </b>
+  <b align="center"> My eyes are red. I've been burning burning burning </b>
 </p>
 
 ### JS : ###
