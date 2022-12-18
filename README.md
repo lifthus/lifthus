@@ -5,13 +5,25 @@
   <b align="center"> I won't stay put, give me the chance to be free.<br> Suffolk sadly seems to sort of suffocate me.</b>
 </p>
 
-### JS : ###
-Express.js / Nest.js / React.js
+## Backend ##
 ### Go : ###
-Hello world
+### JS : ###
+Express.js / Nest.js
+
+## Frontend ##
+### JS : ###
+React.js
+
+## AI ##
 ### Python : ###
-Deep Learning(Tensorflow)
-### Cloud : ###
-AWS
-### Internationalization ###
-i18next
+Tensorflow
+### JS : ###
+Tensorflow.js
+
+## Cloud ##
+### AWS : ###
+EC2 / Lightsail / Route53 / Lambda
+
+## Internationalizaation ##
+### i18nexxt : ###
+UI globalization
