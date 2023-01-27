@@ -24,6 +24,6 @@ Tensorflow.js
 ### AWS : ###
 EC2 / Lightsail / Route53 / Lambda
 
-## Internationalizaation ##
+## Internationalization ##
 ### i18nexxt : ###
 UI globalization
