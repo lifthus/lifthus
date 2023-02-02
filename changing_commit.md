@@ -1,6 +1,6 @@
 ### Changing commit info ###
 
-```git rebase -i -root```
+```git rebase -i --root```
 <br>
 Terminal shows commit history. Then change "pick" of any commit you wanna change to "edit" and go out with :wq command.
 <br><br>
