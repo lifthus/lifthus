@@ -7,23 +7,19 @@
 
 ## Backend ##
 ### Go : ###
+Echo ( with orm "ent" )
 ### JS : ###
-Express.js / Nest.js
+Express.js / Nest.js ( with orm "prisma" )
 
 ## Frontend ##
 ### JS : ###
-React.js
+React.js ( with "tanstack-query", "react-hook-form" and "zustand" )
 
 ## AI ##
-### Python : ###
-Tensorflow
-### JS : ###
-Tensorflow.js
+Tensorflow ( had implemented traditional neural network models like MLP, CNN and LSTM )
 
 ## Cloud ##
-### AWS : ###
-EC2 / Lightsail / Route53 / Lambda
+### AWS / Vercel ###
 
 ## Internationalization ##
-### i18nexxt : ###
-UI globalization
+### i18next ###
