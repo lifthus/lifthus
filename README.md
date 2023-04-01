@@ -8,7 +8,7 @@
 </p>
 <div align="center">
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifthus531)](https://solved.ac/3412mb) <br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifthus531)](https://solved.ac/lifthus531) <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=lifthus&show_icons=true&hide_border=true" align="center"/>
 </div>
 
