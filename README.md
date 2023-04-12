@@ -19,7 +19,7 @@
 <br>
 <b>👷Currently working on...👷🏼‍♂️</b>
 
-[Cloudhus](https://www.cloudhus.com)
+[Cloudhus](https://auth.cloudhus.com/auth)
 and
 [Lifthus](https://www.lifthus.com)
 
