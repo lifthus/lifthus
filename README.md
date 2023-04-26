@@ -36,8 +36,8 @@ and
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white)
 <br>
-![NestJS Badge](https://img.shields.io/badge/NestJS-cf1717?style=for-the-badge&logo=NestJS&logoColor=white)
 ![ExpressJS Badge](https://img.shields.io/badge/ExpressJS-09b858.svg?style=for-the-badge&logoColor=white)
+![NestJS Badge](https://img.shields.io/badge/NestJS-cf1717?style=for-the-badge&logo=NestJS&logoColor=white)
 <br>
 
 ## Frontend ##
