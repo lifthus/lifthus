@@ -1,0 +1,21 @@
+name: Other
+description: Choose if your issue doesn't apply to the other templates
+title: ""
+labels: ["Other"]
+assignees:
+  - lifthus
+body:
+  - type: textarea
+    id: issue-content
+    attributes:
+      placeholder: I say...
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement
+      description: 
+      options:
+        - label: I've checked if there's any other issue about this.
+          required: true
