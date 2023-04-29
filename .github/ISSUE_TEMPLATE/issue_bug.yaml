@@ -33,13 +33,12 @@ body:
       placeholder: I think it's...
     validations:
       required: false
-  - type: dropdown
+  - type: input
     id: version
     attributes:
-      label: Version
+      label: Contact Details
       description: What version of our software are you running?
-      options:
-        - 0.0.0
+      placeholder: v0.0.0
     validations:
       required: false
   - type: dropdown
