@@ -36,7 +36,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: Contact Details
+      label: Version
       description: What version of our software are you running?
       placeholder: v0.0.0
     validations:
