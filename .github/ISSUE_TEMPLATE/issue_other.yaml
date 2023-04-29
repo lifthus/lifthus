@@ -7,6 +7,8 @@ body:
   - type: textarea
     id: issue-content
     attributes:
+      label: Your issue
+      description: Tell us 😮
       placeholder: I say...
     validations:
       required: true
