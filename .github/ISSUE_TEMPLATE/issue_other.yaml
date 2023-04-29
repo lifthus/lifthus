@@ -1,6 +1,5 @@
 name: Other
 description: Choose if your issue doesn't apply to the other templates
-title: ""
 labels: ["Other"]
 assignees:
   - lifthus
