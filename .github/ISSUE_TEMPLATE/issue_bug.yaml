@@ -10,7 +10,7 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
   
-  type: input
+  - type: input
     id: contact
     attributes:
       label: Contact Details
@@ -31,7 +31,7 @@ body:
     attributes:
       label: Why do you think it happened?
       description: Let us know if you have got any idea that comes to mind.
-      placeholder: I think it is...
+      placeholder: I think it's...
     validations:
       required: false
   - type: dropdown
