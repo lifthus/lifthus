@@ -23,3 +23,12 @@ body:
       label: How can this new feature be implemented?
       description: Like required tech stacks, or specific implementation methods etc.
       placeholder: With Golang, It could be implemented like...
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement
+      description: 
+      options:
+        - label: I've checked if there's any other issue about this.
+          required: true
+
