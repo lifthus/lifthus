@@ -4,7 +4,6 @@
 <p align="center">
   <b align="center"> The game's over but now I'm on a new level. 
     <br> Watch how I step on the track without a loop pedal.
-    <br> I won't stay put, give me the chance to be free.
     <br> <br> </b>
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lifthus&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/>
@@ -72,3 +71,6 @@ and
 
 ## Internationalization ##
 ![i18next Badge](https://img.shields.io/badge/i18next-3eab7d?style=for-the-badge&logo=i18next&logoColor=white)
+  
+<hr>
+<p align="center"><b>I won't stay put, give me the chance to be free.</b></p>
