@@ -2,7 +2,10 @@
   <img src="https://user-images.githubusercontent.com/108582413/207043190-12ae81c4-02b1-4c36-9176-6b5309d06bc1.png" alt="drawing" width="25%"/>
 </p>
 <p align="center">
-  <b align="center"> The game's over but now I'm on a new level. <br> I won't stay put, give me the chance to be free. <br> <br> </b>
+  <b align="center"> The game's over but now I'm on a new level. 
+    <br> Watch how I step on the track without a loop pedal.
+    <br> I won't stay put, give me the chance to be free.
+    <br> <br> </b>
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lifthus&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/>
 </p>
