@@ -6,7 +6,7 @@
     <br> Watch how I step on the track without a loop pedal.
     <br> <br> </b>
 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lifthus&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/>
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lifthus&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/>
 </p>
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lifthus531)](https://solved.ac/profile/lifthus531)  [![npm](https://img.shields.io/static/v1?label=npm&message=packages&color=%23CB3837)](https://www.npmjs.com/~lifthus)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flifthus531%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=lifthus&show_icons=true&hide_border=true" align="center"/>
+<img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=lifthus&show_icons=true&hide_border=true" align="center"/>
 </div>
 
 <div align="center">
