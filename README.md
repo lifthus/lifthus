@@ -21,10 +21,10 @@
 <div align="center">
 
 <!--
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifthus531)](https://solved.ac/lifthus531) 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lifthus531)](https://solved.ac/lifthus531)
 -->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lifthus531)](https://solved.ac/profile/lifthus531)  [![npm](https://img.shields.io/static/v1?label=npm&message=packages&color=%23CB3837)](https://www.npmjs.com/~lifthus)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flifthus531%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lifthus531)](https://solved.ac/profile/lifthus531) [![npm](https://img.shields.io/static/v1?label=npm&message=packages&color=%23CB3837)](https://www.npmjs.com/~lifthus) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flifthus531%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -40,45 +40,52 @@ and
 
 <p>
 
-## Backend ##
-![Go Badge](https://img.shields.io/badge/Go-38bbc9?style=for-the-badge&logo=Go&logoColor=white)
-<br>
-![Echo Badge](https://img.shields.io/badge/Echo-0bbf90.svg?style=for-the-badge&logoColor=white)
-<br>
-<br>
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white)
-<br>
-![ExpressJS Badge](https://img.shields.io/badge/ExpressJS-09b858.svg?style=for-the-badge&logoColor=white)
-![NestJS Badge](https://img.shields.io/badge/NestJS-cf1717?style=for-the-badge&logo=NestJS&logoColor=white)
-<br>
+## Proficient skills
 
-## Frontend ##
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white)
-<br>
-![React Badge](https://img.shields.io/badge/React-6fd1d0?style=for-the-badge&logo=React&logoColor=white)
-(+latest react-based libraries)
+As a full stack backend developer, I have been developing those skills below. And I think I'm pretty proficient in those skills, because I'm able to develop a whole web service with those skills.
 
-## AI ##
-![Python Badge](https://img.shields.io/badge/Python-ebdb07.svg?style=for-the-badge&logo=Python&logoColor=white)
-<br>
-![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-f08418?style=for-the-badge&logo=Tensorflow&logoColor=white)
-(traditional neural network models like MLP, CNN and LSTM etc.)
+##### Backend
 
-## Cloud ##
-![AWS Badge](https://img.shields.io/badge/AWS-f07a05?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-<br>
-![EC2 Badge](https://img.shields.io/badge/EC2-f07a05?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
-![Lambda Badge](https://img.shields.io/badge/Lambda-f07a05?style=for-the-badge&logo=AWS-Lambda&logoColor=white)
-![S3 Badge](https://img.shields.io/badge/S3-f07a05?style=for-the-badge&logo=Amazon-S3&logoColor=white)
-(+many other features including IaC skill by CloudFormation and CLI)
-<br>
-<br>
+![Go Badge](https://img.shields.io/badge/Go-38bbc9?style=for-the-badge&logo=Go&logoColor=white) ![Echo Badge](https://img.shields.io/badge/Echo-0bbf90.svg?style=for-the-badge&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white) ![ExpressJS Badge](https://img.shields.io/badge/ExpressJS-09b858.svg?style=for-the-badge&logoColor=white) ![NestJS Badge](https://img.shields.io/badge/NestJS-cf1717?style=for-the-badge&logo=NestJS&logoColor=white)
+
+##### Database
+
+![MySQL Badge](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=MySQL&logoColor=white)
+
+##### Fronted
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white) ![React Badge](https://img.shields.io/badge/React-6fd1d0?style=for-the-badge&logo=React&logoColor=white) **including latest react libraries**
+
+##### Algorithm
+
+![Python Badge](https://img.shields.io/badge/Python-ebdb07.svg?style=for-the-badge&logo=Python&logoColor=white)<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lifthus531)](https://solved.ac/profile/lifthus531)
+
+##### Cloud
+
+![AWS Badge](https://img.shields.io/badge/AWS-f07a05?style=for-the-badge&logo=Amazon-AWS&logoColor=white) ![EC2 Badge](https://img.shields.io/badge/EC2-f07a05?style=for-the-badge&logo=Amazon-EC2&logoColor=white) ![Lambda Badge](https://img.shields.io/badge/Lambda-f07a05?style=for-the-badge&logo=AWS-Lambda&logoColor=white) **including many other features**<br>
 ![Vercel Badge](https://img.shields.io/badge/Vercel-0f2117?style=for-the-badge&logo=Vercel&logoColor=white)
 
-## Internationalization ##
+##### Internationalization
+
 ![i18next Badge](https://img.shields.io/badge/i18next-3eab7d?style=for-the-badge&logo=i18next&logoColor=white)
-  
+
+## Intermediate skills
+
+For my bachelor thesis, I had learned about AI, especially deep learning. Though it is not my area of expertise, I'm able to build sequentail or functional AI models using Tensorflow. and I have comprehensive knowledge about how hyperparameters affect a model's performance.
+
+##### Artificial Intelligence
+
+![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-f08418?style=for-the-badge&logo=Tensorflow&logoColor=white)
+
+## Other skills I've experienced
+
+|                                                Language                                                |                                                 Experiences                                                  |
+| :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|      ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)      | **I had learned deeply about the lauguage's mechanics few years ago. I also developed a board game in TUI.** |
+| ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) |                                   **I had learned overall few years ago.**                                   |
+| ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)  |            **I had devloped an online Omok game with Java Swing and TCP/IP socket programming.**             |
+
 <hr>
 <p align="center"><b>I won't stay put, give me the chance to be free.</b></p>
