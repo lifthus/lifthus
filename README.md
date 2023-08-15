@@ -57,7 +57,7 @@ As a full stack backend developer, I have been developing those skills below. An
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white) ![React Badge](https://img.shields.io/badge/React-6fd1d0?style=for-the-badge&logo=React&logoColor=white) **including latest react libraries**
 
-##### Algorithm
+##### Problem solving
 
 ![Python Badge](https://img.shields.io/badge/Python-ebdb07.svg?style=for-the-badge&logo=Python&logoColor=white)<br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lifthus531)](https://solved.ac/profile/lifthus531)
