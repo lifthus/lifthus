@@ -42,7 +42,7 @@ and
 
 ## Proficient skills
 
-As a full stack backend developer, I have been developing those skills below. And I think I'm pretty proficient in those skills, because I'm able to develop a whole web service with them.
+As a full stack backend developer, I have been developing those skills below. And I think I'm pretty proficient in those skills, because I'm able to develop a full stack web service on cloud with them.
 
 ##### Backend
 
@@ -81,11 +81,11 @@ For my bachelor thesis, I had learned about AI, especially deep learning. Though
 
 ## Other skills I've experienced
 
-|                                                Language                                                |                                                 Experiences                                                  |
-| :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-|      ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)      | **I had learned deeply about the lauguage's mechanics few years ago. I also developed a board game in TUI.** |
-| ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) |                                   **I had learned overall few years ago.**                                   |
-| ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)  |            **I had devloped an online Omok game with Java Swing and TCP/IP socket programming.**             |
+|                                                Language                                                |                                                  Experiences                                                   |
+| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+|      ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)      | **I had learned deeply about the lauguage's mechanics a few years ago. I also developed a board game in TUI.** |
+| ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) |                                   **I had learned overall a few years ago.**                                   |
+| ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)  |             **I had devloped an online Omok game with Java Swing and TCP/IP socket programming.**              |
 
 <hr>
 <p align="center"><b>I won't stay put, give me the chance to be free.</b></p>
