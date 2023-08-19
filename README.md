@@ -73,7 +73,7 @@ As a full stack backend developer, I have been developing those skills below. An
 
 ## Intermediate skills
 
-For my bachelor thesis, I had learned about AI, especially about deep learning. Though it is not my area of expertise, I'm able to build sequentail or functional AI models using Tensorflow. and I have comprehensive knowledge about how hyperparameters affect a model's performance.
+For my bachelor thesis, I had learned about AI, especially about deep learning. Though it is not my area of expertise, I'm able to build sequential or functional AI models using Tensorflow. and I have comprehensive knowledge about how hyperparameters affect a model's performance.
 
 ##### Artificial Intelligence
 
