@@ -83,9 +83,9 @@ For my bachelor thesis, I had learned about AI, especially about deep learning. 
 
 |                                                Language                                                |                                                  Experiences                                                   |
 | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-|      ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)      | **I had learned deeply about the lauguage's mechanics a few years ago. I also developed a board game in TUI.** |
-| ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) |                                   **I had learned overall a few years ago.**                                   |
-| ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)  |             **I had devloped an online Omok game with Java Swing and TCP/IP socket programming.**              |
+|      ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)      | **had learned deeply about the lauguage's mechanics a few years ago. I also developed a board game in TUI.** |
+| ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) |                                   **had learned overall a few years ago.**                                   |
+| ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)  |             **had devloped an online Omok game with Java Swing and TCP/IP socket programming.**              |
 
 <hr>
 <p align="center"><b>I won't stay put, give me the chance to be free.</b></p>
