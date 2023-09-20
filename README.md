@@ -42,7 +42,7 @@ and
 
 ## Proficient skills
 
-As a full stack backend developer, I have been developing those skills below. And I think I'm pretty proficient in those skills, because I'm able to develop a full stack web service on cloud with them.
+As a full stack backend developer, I have been developing those skills below. I think I'm pretty proficient in those skills, because I'm able to develop a full stack web service on cloud with them.
 
 ##### Backend
 
