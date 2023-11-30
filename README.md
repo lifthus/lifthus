@@ -31,10 +31,6 @@
 <div align="center">
 <br>
 
-[Cloudhus](https://auth.cloudhus.com/auth)
-and
-[Lifthus](https://www.lifthus.com)
-
 </div>
 
 <p>
