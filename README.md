@@ -30,7 +30,6 @@
 
 <div align="center">
 <br>
-<b>👷Currently working on...👷🏼‍♂️</b>
 
 [Cloudhus](https://auth.cloudhus.com/auth)
 and
