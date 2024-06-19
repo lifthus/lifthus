@@ -84,3 +84,9 @@ For my bachelor thesis, I had learned about AI, especially about deep learning. 
 
 <hr>
 <p align="center"><b>I won't stay put, give me the chance to be free.</b></p>
+
+<hr>
+
+## 취약점 보고
+
+* KVE-2023-5199
