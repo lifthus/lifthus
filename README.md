@@ -33,60 +33,27 @@
 
 </div>
 
-<p>
-
-## Proficient skills
-
-As a full stack backend developer, I have been developing those skills below. I think I'm pretty proficient in those skills, because I'm able to develop a full stack web service on cloud with them.
-
-##### Backend
-
-![Go Badge](https://img.shields.io/badge/Go-38bbc9?style=for-the-badge&logo=Go&logoColor=white) ![Echo Badge](https://img.shields.io/badge/Echo-0bbf90.svg?style=for-the-badge&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white) ![ExpressJS Badge](https://img.shields.io/badge/ExpressJS-09b858.svg?style=for-the-badge&logoColor=white) ![NestJS Badge](https://img.shields.io/badge/NestJS-cf1717?style=for-the-badge&logo=NestJS&logoColor=white)
-
-##### Database
-
-![MySQL Badge](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=MySQL&logoColor=white)
-
-##### Fronted
-
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=for-the-badge&logo=Typescript&logoColor=white) ![React Badge](https://img.shields.io/badge/React-6fd1d0?style=for-the-badge&logo=React&logoColor=white) **including latest react libraries**
-
-##### Cloud
-
-![AWS Badge](https://img.shields.io/badge/AWS-f07a05?style=for-the-badge&logo=Amazon-AWS&logoColor=white) ![EC2 Badge](https://img.shields.io/badge/EC2-f07a05?style=for-the-badge&logo=Amazon-EC2&logoColor=white) ![Lambda Badge](https://img.shields.io/badge/Lambda-f07a05?style=for-the-badge&logo=AWS-Lambda&logoColor=white) **including many other features**<br>
-![Vercel Badge](https://img.shields.io/badge/Vercel-0f2117?style=for-the-badge&logo=Vercel&logoColor=white)
-
-##### Internationalization
-
-![i18next Badge](https://img.shields.io/badge/i18next-3eab7d?style=for-the-badge&logo=i18next&logoColor=white)
-
-##### Problem solving
-
-![Python Badge](https://img.shields.io/badge/Python-ebdb07.svg?style=for-the-badge&logo=Python&logoColor=white)<br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lifthus531)](https://solved.ac/profile/lifthus531)
-
-## Intermediate skills
-
-For my bachelor thesis, I had learned about AI, especially about deep learning. Though it is not my area of expertise, I'm able to build sequential or functional AI models using Tensorflow. and I have comprehensive knowledge about how hyperparameters affect a model's performance.
-
-##### Artificial Intelligence
-
-![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-f08418?style=for-the-badge&logo=Tensorflow&logoColor=white)
-
-## Other skills I've experienced
-
-|                                                Language                                                |                                                  Experiences                                                   |
-| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-|      ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)      | **had learned deeply about the lauguage's mechanics a few years ago. I also developed a board game in TUI.** |
-| ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) |                                   **had learned overall a few years ago.**                                   |
-| ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)  |             **had devloped an online Omok game with Java Swing and TCP/IP socket programming.**              |
-
-<hr>
 <p align="center"><b>I won't stay put, give me the chance to be free.</b></p>
-
 <hr>
+
+## 기술
+
+* Javascript, Typescript, Node.js, Go언어, React, Next.js 기반 풀스택 웹 개발 가능
+* CORS, 웹 스토리지 특성 완벽히 이해, 실제 서비스에서 액세스/리프레시 토큰 기반 인증 플로우 설계 및 구현 경험
+* 다른 도메인 네임을 가진 사이트 간의 리다이렉트 기반 Single Sign-On 시스템 설계 및 구현 경험
+* AWS EC2 부터 Lambda 까지 다양한 서비스 인프라 구조 장단점 이해하고 활용 가능
+* 업무 수행 기간에 영향을 줄 정도로 베스트 프랙티스, 디자인 패턴에 대해 탈레반급으로 신봉 (영향을 준다고는 했지만 기간 안에 못한다고는 안함)
+* Python 능히 활용
+
+* Java, C, C++ 경험은 있음
+
+ᐩ 오래 전이라 세부 내용은 다 까먹었지만 인공지능 관련 졸업 논문 작성 및 공모전 입상하며 얻은 딥러닝 모델 동작에 대한 이해와 각 하이퍼파라미터들이 모델에 미치는 영향에 대한 직관적이고 경험적인 이해
 
 ## 취약점 보고
 
 * KVE-2023-5199
+
+## 자격
+
+* 정보처리기사
+* SQLD (예정)
